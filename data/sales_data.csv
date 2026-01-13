@@ -1,0 +1,21 @@
+OrderID,Date,Branch,Product,Category,UnitsSold,UnitPrice,PaymentMethod
+1001,2025-01-03,Nairobi CBD,Laptop,Electronics,3,65000,MPesa
+1002,2025-01-05,Westlands,Headphones,Electronics,8,3500,Card
+1003,2025-01-07,Rongai,Sugar 2kg,Groceries,15,240,Cash
+1004,2025-01-10,Nairobi CBD,Office Chair,Furniture,4,8500,Card
+1005,2025-01-12,Westlands,Smartphone,Electronics,5,52000,MPesa
+1006,2025-02-02,Rongai,Cooking Oil 5L,Groceries,12,980,Cash
+1007,2025-02-05,Nairobi CBD,Desk,Furniture,3,12000,MPesa
+1008,2025-02-07,Westlands,Monitor,Electronics,6,18000,Card
+1009,2025-02-09,Rongai,Rice 5kg,Groceries,20,520,Cash
+1010,2025-02-11,Nairobi CBD,Printer,Electronics,2,24000,Card
+1011,2025-03-03,Westlands,Blender,Electronics,7,5600,MPesa
+1012,2025-03-07,Rongai,Maize Flour,Groceries,30,150,Cash
+1013,2025-03-10,Nairobi CBD,Sofa Set,Furniture,1,78000,Card
+1014,2025-03-12,Westlands,Laptop,Electronics,4,65000,MPesa
+1015,2025-03-15,Rongai,Beans 2kg,Groceries,18,260,Cash
+1016,2025-04-03,Nairobi CBD,Tablet,Electronics,6,28000,Card
+1017,2025-04-07,Westlands,Bookshelf,Furniture,3,14500,MPesa
+1018,2025-04-09,Rongai,Milk 1L,Groceries,40,60,Cash
+1019,2025-04-12,Nairobi CBD,Keyboard,Electronics,10,2500,MPesa
+1020,2025-04-15,Westlands,Office Desk,Furniture,2,16000,Card

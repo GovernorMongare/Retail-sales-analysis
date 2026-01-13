@@ -1,0 +1,12 @@
+OrderID,Customer Name,Gender,Age,City,Product,Category,Quantity,Unit Price,Payment Method,Order Date
+1001,John Mwangi,M,23,Nairobi,USB Cable,Electronics,2,500,Cash,20240105
+1002,Mary Wanjiku,F, ,Nakuru,Office Chair,Furniture,1,8500,Mpesa,05-01-2024
+1003,,Male,35,Kisumu,Laptop,Electronics,1,65000,CARD,2024-01-06
+1004,Peter Otieno,M,17,Nairobi,Notebook,Stationary,5,50,Cash,20241301
+1005,Lucy Kimani,F,29,,Smartphone,Electronics,1,32000,Mpesa,2024-01-07
+1006,David Mwangi,M,200,Mombasa,Desk,Furniture,1,12000,Cash,2024-01-07
+1007,Jane Njeri,F,25,Nakuru,Pen,Stationary,10,20,Mpesa,07012024
+1008,Brian Kariuki,M,30,Nairobi,USB Cable,Electronics,three,500,Cash,2024-01-08
+1009,Aisha Ali,F,28,Mombasa,Office Chair,Furniture,1,8500,Mpesa,2024-01-08
+1010,Tom Onyango,M,32,Kisumu,Mouse,Electronics,1,1200,CARD,2024-01-08
+1011,Mary Wanjiku,F, ,Nakuru,Office Chair,Furniture,1,8500,Mpesa,05-01-2024
