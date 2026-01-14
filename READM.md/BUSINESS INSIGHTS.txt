@@ -1,0 +1,64 @@
+Project Overview
+
+This project focuses on analyzing retail sales data to discover business insights, clean raw datasets, and visualize trends that help guide business decisions.
+It demonstrates practical data analysis using Python, Pandas, and Power BI.
+
+ Objectives
+
+Clean and prepare raw retail sales data
+
+Perform exploratory data analysis (EDA)
+
+Identify top-selling products and cities
+
+Calculate revenue performance
+
+Visualize trends using Power BI dashboards
+
+Publish and version control the project on GitHub
+
+ Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Power BI
+
+Git & GitHub
+
+ Project Structure
+Retail-sales-analysis/
+│
+├── data/                  # Raw and cleaned datasets
+├── notebooks/             # Python analysis notebooks
+├── scripts/               # Cleaning & transformation scripts
+├── powerbi/               # Power BI dashboard files
+├── README.md
+└── requirements.txt
+
+ Key Analysis Performed
+
+Revenue by City
+
+Best Selling Products
+
+Monthly Sales Trends
+
+Missing Data Handling
+
+Outlier Detection
+
+Data Cleaning & Transformation
+
+ Business Insights (Sample)
+
+Kisumu generated the highest revenue
+
+Office supplies recorded the highest sales volume
+
+Data cleaning significantly improved reporting accuracy
